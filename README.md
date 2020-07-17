@@ -1,6 +1,8 @@
 # POS-Tagging-and-News-Classification in Python (Internship Task)
 Name: Sreyam Dasgupta
+
 Dataset: BBC News Dataset from Kaggle 
+
 Test Set Accuracy: 98.32
 
 Libraries Used:
